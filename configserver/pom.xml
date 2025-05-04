@@ -69,7 +69,7 @@
 				<version>3.4.2</version>
 				<configuration>
 					<to>
-						<image>eazybytes/${project.artifactId}:s7</image>
+						<image>singhcse01/${project.artifactId}:1.0</image>
 					</to>
 				</configuration>
 			</plugin>
